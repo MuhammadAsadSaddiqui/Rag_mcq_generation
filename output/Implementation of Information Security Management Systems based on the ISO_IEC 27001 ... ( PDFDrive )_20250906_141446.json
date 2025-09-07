@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source_file": "documents\\pdfs\\Implementation of Information Security Management Systems based on the ISO_IEC 27001 ... ( PDFDrive ).pdf",
+    "generated_at": "2025-09-06T14:14:46.126892",
+    "total_questions": 3,
+    "generator_version": "temporal_v1"
+  },
+  "mcqs": [
+    {
+      "question": "What is the purpose of the ISO 27001 standard?",
+      "answer": "C",
+      "options": [
+        "To provide a framework for information security management",
+        "To establish a set of guidelines for information security",
+        "To develop a system for evaluating information security risks",
+        "To create a framework for evaluating information security risks"
+      ]
+    },
+    {
+      "question": "The International Conference on Availability, Reliability and Security (ARES) is held in ",
+      "answer": "A",
+      "options": [
+        "Nigeria",
+        "Netherlands",
+        "Norway",
+        "New York"
+      ]
+    },
+    {
+      "question": "The ISO 27001 standard was published in ",
+      "answer": "D",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ]
+    }
+  ]
+}

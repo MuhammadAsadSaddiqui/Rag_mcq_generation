@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source_url": "https://arxiv.org/pdf/1706.03762.pdf",
+    "generated_at": "2025-09-06T14:23:32.370385",
+    "total_questions": 4,
+    "generator_version": "temporal_v1"
+  },
+  "mcqs": [
+    {
+      "question": "The Penn Treebank is a corpus of  ",
+      "answer": "B",
+      "options": [
+        "English",
+        "German",
+        "French",
+        "Spanish"
+      ]
+    },
+    {
+      "question": "What is the main purpose of the Penn TreeBank?",
+      "answer": "C",
+      "options": [
+        "to study the syntax of English",
+        "to study the semantics of English",
+        "to study the phonology of English",
+        "to study the phonetics of English"
+      ]
+    },
+    {
+      "question": "An attention function can be described as mapping a query and a set of key-value pairs to an output.",
+      "answer": "B",
+      "options": [
+        "The output is computed as a weighted sum.",
+        "The query, keys, values, and output are all vectors.",
+        "The query and keys are vectors.",
+        "The output is computed as a weighted sum."
+      ]
+    },
+    {
+      "question": "In the Penn Treebank,  _  is the most common part of speech.",
+      "answer": "C",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ]
+    }
+  ]
+}

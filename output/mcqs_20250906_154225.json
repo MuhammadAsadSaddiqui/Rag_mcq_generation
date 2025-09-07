@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source_url": "http://localhost:3000/api/content/download?path=content%5CWeek%202%2C3%2C%20lecture%20%20Info%20Sec%20Risk%20Managment_1757155257595.pptx",
+    "generated_at": "2025-09-06T15:42:25.680695",
+    "total_questions": 5,
+    "generator_version": "temporal_v1"
+  },
+  "mcqs": [
+    {
+      "question": "We need to be able to assign value to information, this is Information Classification.",
+      "answer": "D",
+      "options": [
+        "We need to be able to assign value to information.",
+        "This is Information Classification.",
+        "We need to be able to classify information.",
+        "This is Information Classification."
+      ]
+    },
+    {
+      "question": "What is the main idea of the text?",
+      "answer": "D",
+      "options": [
+        "The text is about the separation of duties.",
+        "The text is about the classification of information.",
+        "The text is about the classification of data.",
+        "The text is about the classification of knowledge."
+      ]
+    },
+    {
+      "question": "We need to be able to assign value to information, this is Information Classification.",
+      "answer": "D",
+      "options": [
+        "Data is classified to ensure data is protected in a COST-EFFECTIVE manner.",
+        "Each classification should have separate handing requirements.",
+        "Data is classified to ensure data is protected in a COST-EFFECTIVE manner.",
+        "We need to be able to assign value to information, this is Information Classification."
+      ]
+    },
+    {
+      "question": "We need to be able to assign value to information, this is Information Classification.",
+      "answer": "C",
+      "options": [
+        "We need to be able to assign value to information.",
+        "This is Information Classification.",
+        "We need to be able to assign value to information, this is Information Classification.",
+        "This is Information Classification, we need to be able to assign value to information."
+      ]
+    },
+    {
+      "question": "We need to be able to assign value to information, this is Information Classification.",
+      "answer": "C",
+      "options": [
+        "Data is classified to ensure data is protected in a COST-EFFECTIVE* manner.",
+        "Each classification should have separate handing requirements.",
+        "Information Classification is the process of classifying information.",
+        "Data is classified to ensure data is protected in a COST-EFFECTIVE* manner."
+      ]
+    }
+  ]
+}
